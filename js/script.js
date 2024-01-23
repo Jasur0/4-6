@@ -66,7 +66,7 @@ stopwatch__btn.addEventListener("click", function () {
                 stopwatch__minutes.innerHTML = 0
             }
             secundamer()
-        },0.01)
+        },1000)
     }
 }
 secundamer()
